@@ -1,0 +1,2 @@
+запрос на время: /date?message=mac_address&signature=sign
+запрос на периодичность: /channels/periodicity?message=mac_address|sensor_name&signature=sign
